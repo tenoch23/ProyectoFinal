@@ -1,0 +1,101 @@
+Número del empleado,Nombre,Apellido paterno, Apellido Materno, Proyectos antiguos,Proyectos antiguos,Proyectos antiguos,Proyectos antiguos, Proyectos vigentes,Proyectos vigentes,Dirección(CP),Años en la empresa
+1,David,Mendoza,Becerra,Software de elevador de 10 pisos,Automatización de planta Turín,Sitio web de CFE,App de calculadora,Dispensador automático de gasolina,Base de datos de Sears,90123,46
+2,Andrés,Sánchez,Montes,Inteligencia artificial para identificacion facial,Cajeros automáticos de chedraui,Software para un elevador de 5 pisos,Directorios para Plaza Santa Fe,Aplicación detectora de plagio,E-store de Samborns,1273,47
+3,Daniela,Mendoza,Rodríguez,Página web de McDonald's,Cajeros automáticos de Santander,Algoritmo de Seguros Quálitas,App de inventario de Amazon,Optimización de producción de Panam,Dispensador automático de gasolina,23412,32
+4,Angélica,Hernández,Martínez,Cajeros automáticos de Santander,Sanitario inteligente,APP de CitiBanamex,Aplicación VPN,Cajeros de pago de estacionamiento,Base de datos de Sears,1116,4
+5,Verónica,Martínez,Omaña,Control de bombeo de un Hotel,Sistema de seguridad de Home Depot,Refrigerador inteligente,Algoritmo de seguros El águila,Sistema de seguridad de BBVA,Cajeros de pago de estacionamiento,31251,27
+6,Angélica,Acosta,Rodríguez,Inteligencia Atificial de Ubisoft,Página web de IZZI,App de mensajería,Página web de McDonald's,E-store de Samborns,Sistema de seguridad de BBVA,794,8
+7,Armando,Juárez,López,App correctora de gramática,Algoritmo de seguros El águila,Aplicación VPN,Algoritmo para Seguros ABA,Sistema de seguridad de BBVA,Elevador de carga,668,19
+8,Verónica,Hernández,Navarro,Directorios para Plaza Santa Fe,Sitio web de Burguer King,Aplicación de edición de video,Sistema de seguridad de Home Depot,Cajeros de pago de estacionamiento,Elevador de carga,3970,36
+9,Mariana,Franco,González,Aplicación de edición de video,Inteligencia Artificial para un videojuego,Sanitario inteligente,base de datos de Banco Azteca,Optimización de producción de Panam,Base de datos de Sears,659,21
+10,Andrés,Romero,Navarro,base de datos de Banco Azteca,Sitio web de CFE,Página web de IZZI,base de datos de Banco Azteca,Pagina web de Cinemex,Elevador de carga,40821,43
+11,Mariana,Navarro,Navarro,Página web de IZZI,Cajeros automáticos de chedraui,Software de elevador de 10 pisos,Sitio web de GAP,Cajeros de pago de estacionamiento,Elevador de carga,2772,8
+12,Mariana,Juárez,Omaña,Semáforo,Cajeros automáticos de chedraui,Sensores de reversa de Toyota,Página web de McDonald's,Base de datos de Sears,Cajeros de pago de estacionamiento,794,37
+13,Marco,Rodríguez,Martínez,Semáforo,Aplicación de edición de video,Página web de IZZI,Refrigerador inteligente,E-store de Samborns,Aplicación detectora de plagio,2772,41
+14,Beatriz,Vázquez,Becerra,Refrigerador inteligente,App traductor,E-store de Pull&Bear,Directorios para Plaza Santa Fe,E-store de Samborns,Dispensador automático de gasolina,1802,5
+15,Brenda,Andrade,López,Sitio web de Burguer King,Algoritmo de seguros El águila,Control de bombeo de un Hotel,Software para un elevador de 5 pisos,Base de datos de Sears,Elevador de carga,4210,22
+16,Angélica,Moreno,González,Inteligencia Artificial para un videojuego,E-store de Ford,Inteligencia artificial para identificacion facial,App traductor,Cajeros de pago de estacionamiento,Elevador de carga,794,39
+17,Marco,López,Sánchez,Software de elevador de 10 pisos,E-store de Pull&Bear,Escaleras eléctricas del metro de la CDMX,Software de elevador de 10 pisos,Sistema de seguridad de BBVA,Aplicación detectora de plagio,5498,12
+18,Adolfo,Acosta,Becerra,Sitio web de Burguer King,App de inventario de Amazon,E-store de Pull&Bear,Página web de McDonald's,Pagina web de Cinemex,Aplicación detectora de plagio,794,35
+19,David,Navarro,Moreno,Cajeros automáticos de Santander,Sitio web de CFE,App traductor,Control de bombeo de un Hotel,Base de datos de Sears,Elevador de carga,1802,21
+20,Aldo,Moreno,Giménez,Algoritmo de seguros El águila,Sanitario inteligente,Sanitario inteligente,Casa inteligente,Aplicación detectora de plagio,E-store de Samborns,31251,18
+21,Emiliano,Becerra,González,base de datos de Banco Azteca,E-store de Pull&Bear,Aplicación VPN,Refrigerador inteligente,Aplicación detectora de plagio,Cajeros de pago de estacionamiento,1249,45
+22,David,Moreno,Rodríguez,Casa inteligente,E-store de Pull&Bear,Sitio web de Burguer King,Software para un elevador de 5 pisos,Base de datos de Sears,Dispensador automático de gasolina,794,38
+23,Verónica,Moreno,Acosta,Sitio web de GAP,Software de elevador de 10 pisos,Algoritmo de Seguros Quálitas,Automatización de planta Turín,Cajeros de pago de estacionamiento,Sistema de seguridad de BBVA,2257,36
+24,David,Acosta,Vázquez,Algoritmo de seguros El águila,Optimización de la producción de KFC,Software de elevador de 10 pisos,Aplicación de edición de video,Elevador de carga,Base de datos de Sears,1116,3
+25,Daniela,Romero,Navarro,App de inventario de Amazon,Inteligencia Atificial de Ubisoft,Inteligencia Atificial de Ubisoft,Software para un elevador de 5 pisos,Optimización de producción de Panam,Cajeros de pago de estacionamiento,3921,30
+26,Angélica,Sánchez,Omaña,Automatización de planta Turín,Sensores de reversa de Toyota,Sitio web de CFE,Sitio web de CFE,Dispensador automático de gasolina,E-store de Samborns,1249,5
+27,Angélica,López,Franco,Algoritmo de Seguros Quálitas,Refrigerador inteligente,Control de bombeo de un Hotel,App de calculadora,Sistema de seguridad de BBVA,Cajeros de pago de estacionamiento,3921,26
+28,Mariana,Franco,Romero,Refrigerador inteligente,Software de elevador de 10 pisos,Cajeros automáticos de Santander,Optimización de la producción de KFC,Cajeros de pago de estacionamiento,Elevador de carga,31251,16
+29,David,Andrade,Vázquez,Cajeros automaticos de Wal-mart,Semáforo,Página web de IZZI,Escaleras eléctricas del metro de la CDMX,Elevador de carga,Aplicación detectora de plagio,1116,28
+30,Andrés,Romero,Franco,E-store de Pull&Bear,Sitio web de CFE,Algoritmo de seguros El águila,Casa inteligente,Cajeros de pago de estacionamiento,Pagina web de Cinemex,4210,20
+31,Germán,Navarro,Romero,Software de elevador de 10 pisos,base de datos de Banco Azteca,Refrigerador inteligente,APP de CitiBanamex,Elevador de carga,Base de datos de Sears,668,1
+32,Brenda,Mendoza,Giménez,Algoritmo para Seguros ABA,App de mensajería,App de calculadora,Sanitario inteligente,Dispensador automático de gasolina,Optimización de producción de Panam,2772,16
+33,Adolfo,Martínez,Omaña,Sitio web de GAP,Software de elevador de 10 pisos,Sitio web de Burguer King,Directorios para Plaza Santa Fe,Dispensador automático de gasolina,Base de datos de Sears,794,19
+34,Armando,Navarro,Sánchez,Página web de McDonald's,Aplicación de edición de video,Cajeros automaticos de Wal-mart,E-store de Pull&Bear,Aplicación detectora de plagio,Pagina web de Cinemex,23412,45
+35,Carlos,Acosta,Rodríguez,Cajeros automáticos de chedraui,Software de elevador de 10 pisos,Página web de IZZI,Sanitario inteligente,Aplicación detectora de plagio,E-store de Samborns,40821,36
+36,Angélica,Franco,Mendoza,Software de elevador de 10 pisos,Directorios para Plaza Santa Fe,Sistema de seguridad de Home Depot,Software para un elevador de 5 pisos,Dispensador automático de gasolina,Cajeros de pago de estacionamiento,40821,10
+37,Andrés,Mendoza,Rodríguez,Cajeros automáticos de Santander,App correctora de gramática,APP de CitiBanamex,Cajeros automáticos de chedraui,Pagina web de Cinemex,Pagina web de Cinemex,5498,26
+38,Marco,Acosta,Giménez,Algoritmo de seguros El águila,Sitio web de CFE,App traductor,Sitio web de Burguer King,Sistema de seguridad de BBVA,Base de datos de Sears,659,17
+39,Aldo,Moreno,Navarro,Sensores de reversa de Toyota,Optimización de la producción de KFC,Casa inteligente,Aplicación de edición de video,Elevador de carga,Aplicación detectora de plagio,3921,37
+40,Aldo,Giménez,Giménez,Cajeros automaticos de Wal-mart,Refrigerador inteligente,Aplicación VPN,Software para un elevador de 5 pisos,Sistema de seguridad de BBVA,E-store de Samborns,40821,45
+41,Marco,Hernández,González,Refrigerador inteligente,Refrigerador inteligente,APP de CitiBanamex,base de datos de Banco Azteca,E-store de Samborns,Optimización de producción de Panam,1468,45
+42,Andrés,Andrade,Juárez,E-store de Pull&Bear,Algoritmo para Seguros ABA,Software para un elevador de 5 pisos,Cajeros automáticos de chedraui,E-store de Samborns,Dispensador automático de gasolina,668,19
+43,Mariana,Rodríguez,Rodríguez,Directorios para Plaza Santa Fe,Inteligencia Artificial para un videojuego,App de mensajería,Sitio web de Burguer King,Elevador de carga,Aplicación detectora de plagio,1116,31
+44,Daniela,Acosta,González,Sensores de reversa de Toyota,E-store de Pull&Bear,Casa inteligente,App de inventario de Amazon,Sistema de seguridad de BBVA,Base de datos de Sears,3970,42
+45,Daniela,Sánchez,Mendoza,Sistema de seguridad de Home Depot,Aplicación VPN,Algoritmo para Seguros ABA,Software de elevador de 10 pisos,E-store de Samborns,Elevador de carga,23412,40
+46,Nicole,Franco,Navarro,Sensores de reversa de Toyota,Semáforo,Control de bombeo de un Hotel,Página web de IZZI,Sistema de seguridad de BBVA,Pagina web de Cinemex,4210,3
+47,Brenda,Franco,Hernández,APP de CitiBanamex,Sitio web de CFE,Inteligencia Atificial de Ubisoft,Optimización de la producción de KFC,Optimización de producción de Panam,Cajeros de pago de estacionamiento,4210,3
+48,Beatriz,Rodríguez,Mendoza,Página web de McDonald's,E-store de Liverpool,Página web de IZZI,Sensores de reversa de Toyota,Pagina web de Cinemex,Sistema de seguridad de BBVA,1116,24
+49,Marco,Martínez,Becerra,Página web de McDonald's,Cajeros automaticos de Wal-mart,E-store de Ford,Sitio web de CFE,Pagina web de Cinemex,Sistema de seguridad de BBVA,23412,26
+50,Mariana,López,Montes,Software de elevador de 10 pisos,Semáforo,Algoritmo de seguros El águila,E-store de Ford,Cajeros de pago de estacionamiento,Cajeros de pago de estacionamiento,1116,20
+51,Daniela,Sánchez,Andrade,Control de bombeo de un Hotel,App de inventario de Amazon,Software de elevador de 10 pisos,Sistema de seguridad de Home Depot,Optimización de producción de Panam,Cajeros de pago de estacionamiento,31251,6
+52,Carla,Rodríguez,Andrade,Cajeros automaticos de Wal-mart,Aplicación VPN,Inteligencia Artificial para un videojuego,APP de CitiBanamex,Elevador de carga,Base de datos de Sears,794,11
+53,Adolfo,Andrade,Montes,Página web de IZZI,Sitio web de CFE,Inteligencia Artificial para un videojuego,Automatización de planta Turín,Cajeros de pago de estacionamiento,Cajeros de pago de estacionamiento,3970,40
+54,Mariana,Hernández,Moreno,base de datos de Banco Azteca,Casa inteligente,App de calculadora,Refrigerador inteligente,Dispensador automático de gasolina,Optimización de producción de Panam,1468,35
+55,Andrés,Martínez,Becerra,Sanitario inteligente,Cajeros automáticos de Santander,Sanitario inteligente,Directorios para Plaza Santa Fe,Elevador de carga,Optimización de producción de Panam,1116,29
+56,Verónica,Montes,Sánchez,App correctora de gramática,E-store de Liverpool,Cajeros automaticos de Wal-mart,Casa inteligente,Sistema de seguridad de BBVA,Elevador de carga,5498,32
+57,Abril,Acosta,Giménez,App de mensajería,Inteligencia artificial para identificacion facial,Control de bombeo de un Hotel,Sensores de reversa de Toyota,Sistema de seguridad de BBVA,Aplicación detectora de plagio,1273,46
+58,David,Rodríguez,Becerra,App correctora de gramática,Sanitario inteligente,Sitio web de Burguer King,Algoritmo para Seguros ABA,Optimización de producción de Panam,Elevador de carga,1116,12
+59,Nicole,Acosta,López,Cajeros automáticos de chedraui,Casa inteligente,Cajeros automáticos de chedraui,Sensores de reversa de Toyota,E-store de Samborns,Optimización de producción de Panam,794,9
+60,Mariana,Hernández,Franco,Refrigerador inteligente,APP de CitiBanamex,E-store de Pull&Bear,App de inventario de Amazon,Base de datos de Sears,Base de datos de Sears,1468,12
+61,Armando,Navarro,Montes,Software de elevador de 10 pisos,Sanitario inteligente,Software de elevador de 10 pisos,Algoritmo para Seguros ABA,Pagina web de Cinemex,Aplicación detectora de plagio,23412,35
+62,Adolfo,Hernández,López,App de calculadora,Algoritmo de Seguros Quálitas,Sitio web de CFE,Aplicación VPN,Dispensador automático de gasolina,Cajeros de pago de estacionamiento,3970,28
+63,Beatriz,González,Mendoza,Página web de IZZI,Control de bombeo de un Hotel,Automatización de planta Turín,Inteligencia Atificial de Ubisoft,E-store de Samborns,Base de datos de Sears,2769,2
+6,Mariana,González,Omaña,Sitio web de GAP,Sitio web de GAP,App correctora de gramática,Algoritmo para Seguros ABA,Elevador de carga,Aplicación detectora de plagio,3970,16
+65,Abril,Romero,Rodríguez,Sanitario inteligente,Inteligencia Atificial de Ubisoft,Algoritmo para Seguros ABA,Sensores de reversa de Toyota,E-store de Samborns,Dispensador automático de gasolina,1468,46
+66,Marco,Hernández,Vázquez,Software para un elevador de 5 pisos,Casa inteligente,Software para un elevador de 5 pisos,Aplicación VPN,Cajeros de pago de estacionamiento,Aplicación detectora de plagio,40821,33
+67,Verónica,Juárez,Mendoza,Escaleras eléctricas del metro de la CDMX,Software para un elevador de 5 pisos,E-store de Ford,E-store de Liverpool,Aplicación detectora de plagio,Sistema de seguridad de BBVA,1468,30
+68,Andrea,Becerra,Omaña,App traductor,base de datos de Banco Azteca,App traductor,E-store de Ford,Optimización de producción de Panam,E-store de Samborns,2257,21
+69,Aldo,Omaña,Sánchez,Software para un elevador de 5 pisos,Cajeros automaticos de Wal-mart,Software de elevador de 10 pisos,Cajeros automáticos de chedraui,Base de datos de Sears,Elevador de carga,2769,28
+70,Verónica,Sánchez,Mendoza,Automatización de planta Turín,Algoritmo de Seguros Quálitas,Inteligencia Artificial para un videojuego,E-store de Ford,Base de datos de Sears,Dispensador automático de gasolina,4210,24
+71,Brenda,Omaña,Juárez,Aplicación de edición de video,Refrigerador inteligente,Software para un elevador de 5 pisos,App de calculadora,Pagina web de Cinemex,Pagina web de Cinemex,1249,1
+72,Abril,Mendoza,Omaña,Refrigerador inteligente,Sanitario inteligente,Aplicación de edición de video,Directorios para Plaza Santa Fe,Pagina web de Cinemex,E-store de Samborns,90123,3
+73,Brenda,Mendoza,González,Sanitario inteligente,Sistema de seguridad de Home Depot,Inteligencia Atificial de Ubisoft,Control de bombeo de un Hotel,E-store de Samborns,Aplicación detectora de plagio,3970,14
+74,David,Becerra,Omaña,Escaleras eléctricas del metro de la CDMX,Control de bombeo de un Hotel,Cajeros automáticos de Santander,App traductor,Base de datos de Sears,Dispensador automático de gasolina,1468,13
+75,Nicole,Moreno,Navarro,App correctora de gramática,Semáforo,Sanitario inteligente,Optimización de la producción de KFC,E-store de Samborns,Base de datos de Sears,2772,38
+76,Beatriz,Martínez,Mendoza,Página web de IZZI,Directorios para Plaza Santa Fe,E-store de Pull&Bear,App correctora de gramática,Base de datos de Sears,E-store de Samborns,1468,1
+77,Beatriz,Becerra,Moreno,Casa inteligente,Página web de IZZI,Directorios para Plaza Santa Fe,Aplicación de edición de video,Base de datos de Sears,Elevador de carga,5498,15
+78,Marco,Martínez,Becerra,E-store de Liverpool,Directorios para Plaza Santa Fe,Sensores de reversa de Toyota,Página web de IZZI,Cajeros de pago de estacionamiento,Optimización de producción de Panam,1116,11
+79,David,Omaña,Andrade,Semáforo,Cajeros automaticos de Wal-mart,Aplicación de edición de video,Algoritmo para Seguros ABA,E-store de Samborns,Dispensador automático de gasolina,3970,35
+80,Carla,Vázquez,Giménez,App correctora de gramática,Cajeros automáticos de chedraui,Inteligencia Artificial para un videojuego,Inteligencia artificial para identificacion facial,Elevador de carga,Elevador de carga,1249,33
+81,Brenda,Juárez,Vázquez,App correctora de gramática,APP de CitiBanamex,App de mensajería,Aplicación VPN,Cajeros de pago de estacionamiento,Elevador de carga,1468,33
+82,Brenda,Juárez,Romero,Cajeros automáticos de Santander,Inteligencia artificial para identificacion facial,Optimización de la producción de KFC,Inteligencia artificial para identificacion facial,Sistema de seguridad de BBVA,Dispensador automático de gasolina,23412,22
+83,Abril,Navarro,Sánchez,Inteligencia Artificial para un videojuego,Algoritmo de seguros El águila,Inteligencia Artificial para un videojuego,Sitio web de CFE,E-store de Samborns,Optimización de producción de Panam,1468,21
+84,Carlos,López,Montes,App de mensajería,E-store de Pull&Bear,App de inventario de Amazon,Algoritmo para Seguros ABA,Aplicación detectora de plagio,Sistema de seguridad de BBVA,1273,34
+85,Marco,Moreno,Hernández,Página web de McDonald's,Página web de IZZI,Cajeros automaticos de Wal-mart,Inteligencia artificial para identificacion facial,Sistema de seguridad de BBVA,Base de datos de Sears,3970,16
+86,Marco,Omaña,Vázquez,base de datos de Banco Azteca,Sitio web de Burguer King,Semáforo,Aplicación VPN,Cajeros de pago de estacionamiento,Dispensador automático de gasolina,1116,22
+87,Verónica,Becerra,Giménez,Cajeros automáticos de chedraui,Refrigerador inteligente,Inteligencia artificial para identificacion facial,Escaleras eléctricas del metro de la CDMX,Base de datos de Sears,Base de datos de Sears,3970,26
+88,Aldo,Acosta,Juárez,Optimización de la producción de KFC,App traductor,Algoritmo de seguros El águila,Inteligencia Atificial de Ubisoft,Sistema de seguridad de BBVA,Sistema de seguridad de BBVA,3970,9
+89,Carlos,Giménez,Montes,Cajeros automáticos de chedraui,Cajeros automaticos de Wal-mart,Sitio web de Burguer King,Inteligencia artificial para identificacion facial,Cajeros de pago de estacionamiento,Cajeros de pago de estacionamiento,5498,44
+90,Mariana,Franco,López,Inteligencia Atificial de Ubisoft,Software para un elevador de 5 pisos,Cajeros automáticos de Santander,Software de elevador de 10 pisos,Pagina web de Cinemex,Elevador de carga,1468,26
+91,Aldo,Mendoza,Vázquez,Sitio web de Burguer King,Cajeros automaticos de Wal-mart,base de datos de Banco Azteca,Página web de McDonald's,E-store de Samborns,Pagina web de Cinemex,2257,22
+92,Adolfo,Moreno,Rodríguez,Página web de IZZI,Sitio web de CFE,Algoritmo para Seguros ABA,Sistema de seguridad de Home Depot,Aplicación detectora de plagio,E-store de Samborns,2769,11
+93,Carla,Becerra,Navarro,Sitio web de Burguer King,Sistema de seguridad de Home Depot,Semáforo,Sitio web de GAP,Optimización de producción de Panam,Sistema de seguridad de BBVA,1802,23
+94,Abril,Rodríguez,Becerra,Aplicación VPN,E-store de Pull&Bear,Semáforo,Automatización de planta Turín,Elevador de carga,Pagina web de Cinemex,4210,32
+95,Emiliano,Rodríguez,Montes,Sensores de reversa de Toyota,App de inventario de Amazon,Inteligencia artificial para identificacion facial,Algoritmo para Seguros ABA,Aplicación detectora de plagio,Pagina web de Cinemex,3921,35
+96,Emiliano,Romero,López,Directorios para Plaza Santa Fe,App de calculadora,Algoritmo de Seguros Quálitas,Directorios para Plaza Santa Fe,Base de datos de Sears,E-store de Samborns,4210,33
+97,Marco,Acosta,Becerra,Cajeros automáticos de chedraui,Cajeros automaticos de Wal-mart,Página web de IZZI,Inteligencia Atificial de Ubisoft,E-store de Samborns,Dispensador automático de gasolina,1802,8
+98,Germán,Montes,López,Directorios para Plaza Santa Fe,Software de elevador de 10 pisos,Cajeros automáticos de Santander,Refrigerador inteligente,Optimización de producción de Panam,Elevador de carga,3970,40
+99,Armando,Vázquez,Giménez,Algoritmo de seguros El águila,Inteligencia Atificial de Ubisoft,Sitio web de CFE,Sanitario inteligente,Dispensador automático de gasolina,Sistema de seguridad de BBVA,23412,12
+100,David,Andrade,González,Sanitario inteligente,Algoritmo de Seguros Quálitas,Semáforo,Optimización de la producción de KFC,Cajeros de pago de estacionamiento,Dispensador automático de gasolina,3970,36
