@@ -22,7 +22,7 @@ public class Main {
          
          System.out.println("Bienvenido al sistema de gestión y revisión del personal de la empresa.");
          System.out.println("50 aniversario.");
-         System.out.println("Powered by NombreEmpresa.");
+         System.out.println("Powered by Sigma Company.");
          
          int inicio;
          
